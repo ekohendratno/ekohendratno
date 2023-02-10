@@ -14,7 +14,7 @@ Saat ini bekerja sebagai pengajar, tapi saya suka belajar hal baru dalam pemrogr
 <detail>
   <strong>Apa yang saya pelajari/kerjakan hari ini</strong> </br>
      - 🔭 Saat ini saya sedang mengerjakan CBT </br>
-     - 🌱 Saat ini saya sedang belajar Python,Koltin, Flutter dan UIKit </br>
+     - 🌱 Saat ini saya sedang belajar Python,Koltin, Flutter, Java dan UIKit </br>
      - 🤔 Saya ingin belajar banyak dan menguasai pemrograman. hehe </br>
      - 💬 Tanya saya tentang apa saja.</br>
      - 📫 Cara menghubungi saya: <a href="mailto:eko.hendratno@gmail.com">Email saya!</a> </br>
