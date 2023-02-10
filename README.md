@@ -27,10 +27,8 @@ Saat ini bekerja sebagai pengajar, tapi saya suka belajar hal baru dalam pemrogr
 ### Yuk Terhubung!
 <p>
     <a href="https://berkarya.kopas.id" target="blank"><img src="https://img.shields.io/badge/Website-https://ekohendratno.com-green?" /></a>
-    <a href="https://linkedin.ekohendratno.com" target="blank"><img src="https://img.shields.io/badge/Eko_Hendratno-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/ekohendratno" target="blank"><img src="https://img.shields.io/badge/Eko_Hendratno-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@ekohendratno" target="blank"><img src="https://img.shields.io/badge/Eko_Hendratno-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.ekohendratno.com" target="blank"><img src="https://img.shields.io/badge/@ekohendratno_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 <!--
